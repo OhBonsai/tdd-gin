@@ -4,4 +4,4 @@
 *.so
 
 # Folders
-idea/
+.idea/
